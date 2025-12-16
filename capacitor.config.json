@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.bazar",
+  "appName": "Bazar App",
+  "webDir": "dist/spa",
+  "bundledWebRuntime": false
+}
